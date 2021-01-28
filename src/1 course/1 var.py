@@ -1,16 +1,3 @@
-<<<<<<< HEAD
-x=5
-y=3
-print("x =", x , "; y=",y)
-print("x+y =", x+y)
-print("x-y =",x-y)
-print("x*y =",x*y)
-print("x/y =",x/y)
-print("x//y =",x//y)
-print("x%y =",x%y)
-print("x**y =",x**y)
-
-=======
 # x=5
 # y=3
 # print("x =", x , "; y=",y)
@@ -31,4 +18,4 @@ mount_pay = final_sum /  (cr_years * 12)
 
 print(final_sum)
 print(round(mount_pay,2))
->>>>>>> add credit
+
