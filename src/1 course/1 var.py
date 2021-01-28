@@ -18,4 +18,3 @@ mount_pay = final_sum /  (cr_years * 12)
 
 print(final_sum)
 print(round(mount_pay,2))
-
